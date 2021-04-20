@@ -1,0 +1,10 @@
+﻿  AdjacencyMatrix.cpp
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(113,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\AdjacencyMatrix.cpp(40): warning C4715: AdjacencyMatrix::findNewIndex: значение возвращается не при всех путях выполнения
+  graphs.vcxproj -> C:\Users\Сергей\Desktop\YROKI3\АИСД\lab3\graphs\Debug\graphs.exe
